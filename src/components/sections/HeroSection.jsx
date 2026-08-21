@@ -6,6 +6,7 @@ import { GithubIcon, LinkedinIcon } from "../ui/Icons";
 import { useEffect, useState } from "react";
 import DownloadCVButton from "../../pages/DownloadCv/DownloadCVButton";
 import ViewButton from "../../pages/DownloadCv/ViewButton";
+import FallingTechIcons from "../../pages/FallingTechIcons";
 
 const ROLES = [
   "Full Stack Developer",
@@ -135,13 +136,18 @@ export default function HeroSection() {
         gap-5
         lg:gap-10
         bg-gradient-to-t from-[#E3F2FD] via-[#d7dcf07b] to-white
-      "
+        
+        relative
+        "
     >
+
+      {/* Falling Background Icons */}
+      <FallingTechIcons />
 
       {/* left side */}
 
       {/* HERO TEXT */}
-      <div className="text-left w-full lg:w-1/2 space-y-2">
+      <div className="text-left w-full lg:w-1/2 space-y-2 relative z-10">
         {/* STATUS BADGE */}
 
         <div className="flex justify-center md:justify-start">

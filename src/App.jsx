@@ -41,7 +41,7 @@ export default function App() {
 
           {/* 4. Tech Stack */}
 
-          <TechStack></TechStack>
+          {/* <TechStack></TechStack> */}
 
           <TechStackSection />
 

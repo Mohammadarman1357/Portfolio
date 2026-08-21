@@ -1,19 +1,11 @@
-import { motion } from 'framer-motion';
-import { User, Download, CheckCircle2, HeartHandshake, Lightbulb, Code2, Compass, ShieldCheck } from 'lucide-react';
+import React from 'react';
 
-export default function AboutMeSection() {
-  const highlights = [
-    { title: 'Full-Cycle Ownership', desc: 'From whiteboarding architectures and DB modeling to production deployment and telemetry monitoring.' },
-    { title: 'AI & FinTech Specialization', desc: 'Deep background designing algorithmic calculation pipelines and autonomous LLM workflows.' },
-    { title: 'Pixel-Precision Frontend', desc: 'Passionate about fluid micro-animations, tactile UI controls, accessibility, and sub-100ms response times.' },
-    { title: 'Team Mentorship & Growth', desc: 'Champion of clean code reviews, comprehensive testing, and empathetic engineering culture.' }
-  ];
-
+const AboutMeSection = () => {
   return (
-    <section id="about">
+    <section id="about" className='m-5 md:m-7'>
       {/* about me */}
 
-      <div className='p-10 border-2'>
+      <div className='p-10 border-2 rounded-[10px] md:rounded-xl'>
 
         {/* Header */}
         <span className='font-bold text-2xl text-black'>About Me</span>
@@ -36,4 +28,6 @@ export default function AboutMeSection() {
       </div>
     </section>
   );
-}
+};
+
+export default AboutMeSection;
