@@ -11,8 +11,8 @@ export default function DownloadCVButton() {
 
         // Start CV download
         const link = document.createElement("a");
-        link.href = "../../../public/ArmanCV.pdf";
-        link.download = "ArmanCV.pdf";
+        link.href = "../../../public/ArmanResume.pdf";
+        link.download = "ArmanResume.pdf";
 
         document.body.appendChild(link);
         link.click();
@@ -74,7 +74,7 @@ export default function DownloadCVButton() {
                         e.preventDefault();
                         e.stopPropagation();
 
-                        window.open("/ArmanCV.pdf", "_blank", "noopener,noreferrer");
+                        window.open("/ArmanResume.pdf", "_blank", "noopener,noreferrer");
                     }}
                 >
                     Open

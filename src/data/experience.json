@@ -1,0 +1,202 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "role": "Full Stack Web Developer",
+      "company": "Freelance / Personal Projects",
+      "type": "Project-Based",
+      "startDate": "2024",
+      "endDate": "Present",
+      "description": "Develop modern, responsive, and scalable web applications using the MERN stack and modern frontend technologies.",
+      "responsibilities": [
+        "Build responsive and interactive web applications.",
+        "Develop frontend interfaces using React.js and Tailwind CSS.",
+        "Build backend services and REST APIs using Node.js and Express.js.",
+        "Work with MongoDB for database management.",
+        "Create reusable and maintainable components.",
+        "Implement animations and modern user experiences.",
+        "Manage projects using Git and GitHub."
+      ],
+      "technologies": [
+        "JavaScript",
+        "React.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST API",
+        "Git",
+        "GitHub",
+        "Vite",
+        "Framer Motion"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "React.js Developer",
+      "company": "Freelance / Personal Projects",
+      "type": "Project-Based",
+      "startDate": "2024",
+      "endDate": "Present",
+      "description": "Develop modern frontend applications and responsive user interfaces using React.js and modern UI technologies.",
+      "responsibilities": [
+        "Develop reusable React components.",
+        "Build responsive layouts for mobile, tablet, and desktop.",
+        "Create interactive interfaces and animations.",
+        "Integrate APIs and dynamic data.",
+        "Optimize frontend performance and user experience.",
+        "Build modern portfolio and web application interfaces."
+      ],
+      "technologies": [
+        "React.js",
+        "JavaScript",
+        "Tailwind CSS",
+        "HTML5",
+        "CSS3",
+        "Framer Motion",
+        "GSAP",
+        "Vite",
+        "React Icons"
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Android App Developer",
+      "company": "Freelance / Personal Projects",
+      "type": "Project-Based",
+      "startDate": "2023",
+      "endDate": "Present",
+      "description": "Develop Android applications using Android Studio, Java, and Android SDK, with a focus on building functional and user-friendly mobile applications.",
+      "responsibilities": [
+        "Develop Android applications using Android Studio.",
+        "Build application interfaces and user interactions.",
+        "Develop Android applications using Java.",
+        "Work with Android SDK and Gradle.",
+        "Test and debug Android applications.",
+        "Implement application features and functionality."
+      ],
+      "technologies": [
+        "Java",
+        "Android Studio",
+        "Android SDK",
+        "Gradle",
+        "XML"
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Java Programmer",
+      "company": "Personal Projects & Learning",
+      "type": "Project-Based",
+      "startDate": "2022",
+      "endDate": "Present",
+      "description": "Experienced in Java programming with a strong understanding of core programming concepts, object-oriented programming, and application development.",
+      "responsibilities": [
+        "Develop Java programs and applications.",
+        "Apply object-oriented programming concepts.",
+        "Work with classes, objects, inheritance, polymorphism, and encapsulation.",
+        "Practice problem solving and algorithmic thinking.",
+        "Develop console-based and application-based projects.",
+        "Use Java as a foundation for Android application development."
+      ],
+      "technologies": [
+        "Java",
+        "Core Java",
+        "OOP",
+        "Data Structures",
+        "Problem Solving"
+      ]
+    },
+    {
+      "id": 5,
+      "role": "Python Programmer",
+      "company": "Personal Projects & Learning",
+      "type": "Project-Based",
+      "startDate": "2023",
+      "endDate": "Present",
+      "description": "Develop Python programs and applications while building a strong foundation in object-oriented programming, automation, data handling, and problem solving.",
+      "responsibilities": [
+        "Develop Python programs and utilities.",
+        "Apply object-oriented programming concepts.",
+        "Practice problem solving and algorithmic thinking.",
+        "Work with data and basic automation tasks.",
+        "Explore Python for Data Science and Machine Learning."
+      ],
+      "technologies": [
+        "Python",
+        "OOP",
+        "SQL",
+        "Data Science",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": 6,
+      "role": "Faculty / Lecturer",
+      "company": "Gausul Azam Maizbhandari Polytechnic Institute (GAMPI)",
+      "type": "Full-Time",
+      "startDate": "Sep 2025",
+      "endDate": "Present",
+      "description": "Working as a faculty member at GAMPI, providing academic instruction, mentoring students, and supporting their technical and professional development.",
+      "responsibilities": [
+        "Deliver lectures and practical instruction to students.",
+        "Explain technical and academic concepts through practical examples.",
+        "Prepare lesson plans, learning materials, and assessments.",
+        "Guide students in academic and technical activities.",
+        "Support students in developing problem-solving and professional skills.",
+        "Evaluate student performance and provide constructive feedback."
+      ],
+      "technologies": [
+        "Computer Science",
+        "Programming",
+        "MS Office",
+        "Educational Technology"
+      ]
+    },
+    {
+      "id": 7,
+      "role": "Graphics Designer",
+      "company": "Freelance / Personal Projects",
+      "type": "Project-Based",
+      "startDate": "2021",
+      "endDate": "Present",
+      "description": "Create digital graphics, educational materials, branding assets, and visual content for online and personal projects.",
+      "responsibilities": [
+        "Design digital graphics and visual assets.",
+        "Create educational and social media graphics.",
+        "Design T-shirt artwork.",
+        "Create promotional and branding materials.",
+        "Prepare graphics for digital platforms."
+      ],
+      "technologies": [
+        "Adobe Illustrator",
+        "Freepik",
+        "Graphic Design"
+      ]
+    },
+    {
+      "id": 8,
+      "role": "YouTube Educator & Tech Content Creator",
+      "company": "Self-Employed",
+      "type": "Self-Employed",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "description": "Create educational and technology-related content focused on Computer Science, Diploma Engineering, programming, and academic resources.",
+      "responsibilities": [
+        "Create Computer Science and Diploma Engineering tutorials.",
+        "Explain programming and technical concepts.",
+        "Create study materials, cheat sheets, and educational resources.",
+        "Produce and manage educational video content.",
+        "Create graphics and visual materials for educational content."
+      ],
+      "technologies": [
+        "Computer Science",
+        "Programming",
+        "MS Office",
+        "Graphic Design",
+        "Video Editing",
+        "Content Creation"
+      ]
+    }
+  ]
+}

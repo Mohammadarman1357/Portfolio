@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "title": "Web Development",
+    "description": "Modern, responsive and high-performance websites built with clean code and thoughtful user experiences.",
+    "icon": "FiCode",
+    "features": [
+      "Responsive Design",
+      "Modern UI/UX",
+      "Clean Architecture"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "title": "MERN Stack Development",
+    "description": "Scalable full-stack applications using MongoDB, Express.js, React.js and Node.js.",
+    "icon": "FiServer",
+    "features": [
+      "REST API",
+      "Authentication",
+      "Database Integration"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "title": "Frontend Development",
+    "description": "Interactive interfaces focused on performance, accessibility, responsiveness and smooth animations.",
+    "icon": "FiMonitor",
+    "features": [
+      "Interactive UI",
+      "Smooth Animation",
+      "Responsive Layout"
+    ],
+    "technologies": [
+      "React",
+      "Tailwind",
+      "Framer Motion",
+      "Vite"
+    ]
+  },
+  {
+    "id": 4,
+    "number": "04",
+    "title": "Android App Development",
+    "description": "Functional Android applications with clean interfaces and reliable application architecture.",
+    "icon": "FiSmartphone",
+    "features": [
+      "Modern UI",
+      "API Integration",
+      "Application Architecture"
+    ],
+    "technologies": [
+      "Java",
+      "Android Studio",
+      "XML",
+      "REST API"
+    ]
+  },
+  {
+    "id": 5,
+    "number": "05",
+    "title": "UI & Graphic Design",
+    "description": "Creative digital designs combining visual hierarchy, consistency and modern design principles.",
+    "icon": "FiPenTool",
+    "features": [
+      "UI Design",
+      "Social Graphics",
+      "Brand Materials"
+    ],
+    "technologies": [
+      "Illustrator",
+      "Figma",
+      "Photoshop",
+      "Freepik"
+    ]
+  },
+  {
+    "id": 6,
+    "number": "06",
+    "title": "Database & Backend",
+    "description": "Secure backend systems and database solutions designed for organized and scalable applications.",
+    "icon": "FiDatabase",
+    "features": [
+      "Database Design",
+      "API Development",
+      "Data Management"
+    ],
+    "technologies": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "MySQL"
+    ]
+  }
+]

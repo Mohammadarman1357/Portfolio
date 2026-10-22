@@ -243,7 +243,7 @@ export default function HeroSection() {
 
             <p className="font-normal mb-2 text-gray-700 text-[18px] text-center md:text-left">👋 Hello, I'm</p>
 
-            MOHAMMAD
+            <span className="text-black">MOHAMMAD</span>
 
             <br />
 
@@ -387,7 +387,7 @@ export default function HeroSection() {
             <OrbitIcon
               angle={-90}
               duration={38}
-              src="/icons/firebase.png"
+              src="/icons/nextjs.png"
               alt="Firebase"
               className="
               w-11

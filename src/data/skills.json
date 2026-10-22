@@ -1,0 +1,163 @@
+{
+  "Office & Design": [
+    {
+      "name": "MS Word",
+      "image": "/skillicons/msword.png"
+    },
+    {
+      "name": "MS Excel",
+      "image": "/skillicons/msexcel.png"
+    },
+    {
+      "name": "PowerPoint",
+      "image": "/skillicons/mspowerpoint.png"
+    },
+    {
+      "name": "Illustrator",
+      "image": "/skillicons/illustrator.png"
+    },
+    {
+      "name": "Photoshop",
+      "image": "/skillicons/photoshop.jpeg"
+    },
+    {
+      "name": "Figma",
+      "image": "/skillicons/figma.png"
+    }
+  ],
+
+  "Programming Languages & IDEs": [
+    {
+      "name": "Python",
+      "image": "/skillicons/python.png"
+    },
+    {
+      "name": "Java",
+      "image": "/skillicons/java.png"
+    },
+    {
+      "name": "Android",
+      "image": "/skillicons/android.png"
+    },
+    {
+      "name": "C",
+      "image": "/skillicons/c.png"
+    },
+    {
+      "name": "C++",
+      "image": "/skillicons/c++.png"
+    },
+    {
+      "name": "Kotlin",
+      "image": "/skillicons/kotlin.png"
+    }
+  ],
+
+  "Web & Frontend": [
+    {
+      "name": "HTML",
+      "image": "/skillicons/html.png"
+    },
+    {
+      "name": "CSS",
+      "image": "/skillicons/css.png"
+    },
+    {
+      "name": "JavaScript",
+      "image": "/skillicons/js.jpeg"
+    },
+    {
+      "name": "Tailwind",
+      "image": "/skillicons/tailwindcss.png"
+    },
+    {
+      "name": "React.js",
+      "image": "/skillicons/reactjs.png"
+    },
+    {
+      "name": "Next.js",
+      "image": "/skillicons/nextjs.png"
+    }
+  ],
+
+  "Backend & Databases": [
+    {
+      "name": "Node.js",
+      "image": "/skillicons/nodejs.png"
+    },
+    {
+      "name": "Express.js",
+      "image": "/skillicons/express.png"
+    },
+    {
+      "name": "MySQL",
+      "image": "/skillicons/mysql.png"
+    },
+    {
+      "name": "MongoDB",
+      "image": "/skillicons/mongodb.png"
+    },
+    {
+      "name": "Firebase",
+      "image": "/skillicons/firebase.png"
+    }
+  ],
+
+  "Hosting, Cloud & DevOps": [
+    {
+      "name": "Netlify",
+      "image": "/skillicons/netlify.png"
+    },
+    {
+      "name": "Surge",
+      "image": "/skillicons/surge.png"
+    },
+    {
+      "name": "Cloudflare",
+      "image": "/skillicons/cloudfare.png"
+    },
+    {
+      "name": "Vercel",
+      "image": "/skillicons/vercel.png"
+    },
+    {
+      "name": "GitHub",
+      "image": "/skillicons/github.png"
+    },
+    {
+      "name": "Git",
+      "image": "/skillicons/git.png"
+    },
+    {
+      "name": "VS Code",
+      "image": "/skillicons/vscode.png"
+    }
+  ],
+
+  "AI & Services": [
+    {
+      "name": "ChatGPT",
+      "image": "/skillicons/chatgpt.png"
+    },
+    {
+      "name": "Gemini",
+      "image": "/skillicons/gemini.png"
+    },
+    {
+      "name": "DeepSeek",
+      "image": "/skillicons/deepseek.png"
+    },
+    {
+      "name": "Stitch",
+      "image": "/skillicons/stitch.png"
+    },
+    {
+      "name": "Antigravity",
+      "image": "/skillicons/antigravity.png"
+    },
+    {
+      "name": "Stripe",
+      "image": "/skillicons/stripe.jpeg"
+    }
+  ]
+}

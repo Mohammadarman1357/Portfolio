@@ -6,6 +6,15 @@ export const NAV_ITEMS = [
     iconType: 'house',
     description: 'Introduction & Highlights',
   },
+
+  {
+    id: 'projects',
+    label: 'Projects',
+    href: '#projects',
+    iconType: 'folder',
+    description: 'Featured Case Studies & Work',
+  },
+
   {
     id: 'about',
     label: 'About',
@@ -27,13 +36,7 @@ export const NAV_ITEMS = [
     iconType: 'briefcase',
     description: 'Experience & Education',
   },
-  {
-    id: 'projects',
-    label: 'Projects',
-    href: '#projects',
-    iconType: 'folder',
-    description: 'Featured Case Studies & Work',
-  },
+
   {
     id: 'contact',
     label: 'Contact',

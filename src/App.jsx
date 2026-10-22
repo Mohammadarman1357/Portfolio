@@ -2,57 +2,69 @@ import SmoothScrollProvider from './components/animations/SmoothScrollProvider';
 import { useScrollSpy } from './hooks/useScrollSpy';
 import FloatingNavBar from './components/layout/FloatingNavBar';
 import HeroSection from './components/sections/HeroSection';
-import AboutMeSection from './components/sections/AboutMeSection';
-import TechStackSection from './components/sections/TechStackSection';
 import SkillsSection from './components/sections/SkillsSection';
-import QualificationSection from './components/sections/QualificationSection';
 import ProjectsSection from './components/sections/ProjectsSection';
 import ContactMeSection from './components/sections/ContactMeSection';
 import Footer from './components/layout/Footer';
-import BorderBeamStats from './components/sections/BorderBeamStats';
-import BackgroundBoxesDemo from './components/sections/BackgroundBoxesDemo';
+// import BorderBeamStats from './components/sections/BorderBeamStats';
 import TechStack from './components/sections/TechStack';
+import AboutMe from './components/sections/AboutMe';
+import ScrollTop from './components/animations/ScrollTop';
+import Education from './components/sections/Education';
+import Experience from './components/sections/Experience';
+import Services from './components/sections/Services';
 
-const SECTION_IDS = ['hero', 'about', 'skills', 'qualification', 'projects', 'contact'];
+const SECTION_IDS = ['hero', 'projects', 'about', 'skills', 'qualification', , 'contact'];
 
 export default function App() {
   const [activeTab, setActiveTab] = useScrollSpy(SECTION_IDS, 180);
 
   return (
     <SmoothScrollProvider>
-      <div className="max-w-7xl border-2 mx-auto bg-white relative overflow-x-hidden">
+      <div className="bg-white relative overflow-x-hidden">
         {/* Subtle grid pattern background */}
         <div className="fixed inset-0 bg-grid-pattern opacity-40 pointer-events-none -z-10" />
 
-        {/* 1. Navbar (Fixed Floating Top Capsule) */}
+        {/* 0. Navbar (Fixed Floating Top Capsule) */}
         <FloatingNavBar activeTab={activeTab} setActiveTab={setActiveTab} />
 
         {/* Website Content Sections */}
-        <main className="relative z-10 space-y-2">
-          {/* 2. Hero Section */}
+        <main className="relative z-10 ">
+          {/* 1. Hero Section */}
           <HeroSection />
 
-          <BorderBeamStats></BorderBeamStats>
-
-          {/* <BackgroundBoxesDemo></BackgroundBoxesDemo> */}
+          {/* 2. Project */}
+          <ProjectsSection />
 
           {/* 3. About Me */}
-          <AboutMeSection />
+
+          <AboutMe></AboutMe>
 
           {/* 4. Tech Stack */}
 
-          {/* <TechStack></TechStack> */}
-
-          <TechStackSection />
+          <TechStack></TechStack>
 
           {/* 5. Skills */}
           <SkillsSection />
 
-          {/* 6. Qualification (Experience + Education) */}
-          <QualificationSection />
+          {/* 6. Education */}
+          <Education></Education>
 
-          {/* 7. Project */}
-          <ProjectsSection />
+          {/* 7 Experience */}
+          <Experience></Experience>
+
+          {/* Services */}
+          <Services></Services>
+
+
+          {/* <BorderBeamStats></BorderBeamStats> */}
+
+          {/* <BackgroundBoxesDemo></BackgroundBoxesDemo> */}
+
+
+
+          {/* <TechStackSection /> */}
+
 
           {/* 8. Contact Me */}
           <ContactMeSection />
@@ -61,6 +73,10 @@ export default function App() {
         {/* 9. Footer */}
         <Footer />
       </div>
+
+      <ScrollTop></ScrollTop>
+
     </SmoothScrollProvider>
+
   );
 }

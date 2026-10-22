@@ -1,0 +1,866 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Landing Launchpad",
+      "image": "/projectimages/1LaunchedLandingPage.jpg",
+      "shortDescription": "A modern and responsive landing page built with clean HTML and CSS.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Landing-Launchpad/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Landing-Launchpad"
+    },
+    {
+      "id": 2,
+      "title": "Web Developer Portfolio",
+      "image": "/projectimages/2Responsivewebdeveloperportfolio.jpg",
+      "shortDescription": "A responsive personal portfolio website for showcasing web development skills and projects.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Responsive-WebDeveloper-Portfolio/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Responsive-WebDeveloper-Portfolio"
+    },
+    {
+      "id": 3,
+      "title": "G3 Architecture",
+      "image": "/projectimages/3g3architecture.jpg",
+      "shortDescription": "A professional architecture website featuring a clean layout and responsive design.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/G3-Architects-Website/",
+      "sourceCode": "https://github.com/Mohammadarman1357/G3-Architects-Website"
+    },
+    {
+      "id": 4,
+      "title": "Influencer Gear",
+      "image": "/projectimages/4influencergear.jpg",
+      "shortDescription": "A stylish e-commerce landing page designed for influencer gear and products.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Influencer-Gear/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Influencer-Gear"
+    },
+    {
+      "id": 5,
+      "title": "Flower Shop",
+      "image": "/projectimages/5flowershop.jpg",
+      "shortDescription": "A beautiful and responsive flower shop website with an elegant user interface.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Responsive-Flowers/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Responsive-Flowers"
+    },
+    {
+      "id": 6,
+      "title": "Tea House",
+      "image": "/projectimages/6teahousewithtailwind.jpg",
+      "shortDescription": "A modern tea house website built with a responsive and elegant design.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Tea-house-with-tailwind/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Tea-house-with-tailwind"
+    },
+    {
+      "id": 7,
+      "title": "Course Registration",
+      "image": "/projectimages/7courseregistration.jpg",
+      "shortDescription": "A responsive course registration platform with a modern educational interface.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Course-Registration-with-tailwind/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Course-Registration-with-tailwind"
+    },
+    {
+      "id": 8,
+      "title": "Payoo Mobile Banking",
+      "image": "/projectimages/8payoo.jpg",
+      "shortDescription": "A mobile banking interface with interactive financial features and responsive design.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Payoo-Mobile-Bank/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Payoo-Mobile-Bank"
+    },
+    {
+      "id": 9,
+      "title": "Emergency Hotline",
+      "image": "/projectimages/9emergencyhotline.jpeg",
+      "shortDescription": "An emergency hotline application for quickly accessing important emergency services.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Emergency-Hotline/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Emergency-Hotline"
+    },
+    {
+      "id": 10,
+      "title": "English Window",
+      "image": "/projectimages/10englishjanala.jpg",
+      "shortDescription": "An interactive English learning platform with a clean and responsive interface.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/English-Janala/",
+      "sourceCode": "https://github.com/Mohammadarman1357/English-Janala"
+    },
+    {
+      "id": 11,
+      "title": "Green Earth",
+      "image": "/projectimages/11greenearth.jpg",
+      "shortDescription": "An environmentally focused website promoting a cleaner and greener future.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        }
+      ],
+      "liveLink": "https://mohammadarman1357.github.io/Green-Earth/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Green-Earth"
+    },
+    {
+      "id": 12,
+      "title": "BPL Dream",
+      "image": "/projectimages/12bpldream.jpg",
+      "shortDescription": "A React-based cricket team management application with an interactive interface.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Surge",
+          "icon": "https://avatars.githubusercontent.com/u/23117774?s=200&v=4"
+        },
+        {
+          "name": "React Toastify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        }
+      ],
+      "liveLink": "https://bpl-dream-with-react-arman.netlify.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/BPL-DREAM-with-react"
+    },
+    {
+      "id": 13,
+      "title": "Customer Support Zone",
+      "image": "/projectimages/13customersupportzone.jpg",
+      "shortDescription": "A customer support platform with a modern UI and interactive support features.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Netlify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
+        },
+        {
+          "name": "React Toastify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "Font Awesome",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fontawesome/fontawesome-original.svg"
+        }
+      ],
+      "liveLink": "https://customer-support-zone-arman.netlify.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/customer-support-zone"
+    },
+    {
+      "id": 14,
+      "title": "Hero Apps",
+      "image": "/projectimages/14heroapps.jpg",
+      "shortDescription": "A feature-rich application built with React, Firebase, data visualization and modern UI tools.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Netlify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg"
+        },
+        {
+          "name": "React Toastify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "Axios",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+        },
+        {
+          "name": "Lucide React",
+          "icon": "https://lucide.dev/logo.light.svg"
+        },
+        {
+          "name": "React Router",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"
+        },
+        {
+          "name": "Recharts",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        }
+      ],
+      "liveLink": "https://hero-app-arman.netlify.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/hero-app"
+    },
+    {
+      "id": 15,
+      "title": "Zap Shift",
+      "image": "/projectimages/20zapshift.jpeg",
+      "shortDescription": "A feature-rich full-stack platform with maps, payments, forms, charts and advanced React features.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "Axios",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+        },
+        {
+          "name": "Express.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "TanStack Query",
+          "icon": "https://tanstack.com/favicon.ico"
+        },
+        {
+          "name": "Leaflet",
+          "icon": "https://i.ibb.co/VptWp40G/images.png"
+        },
+        {
+          "name": "React Hook Form",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Leaflet",
+          "icon": "https://i.ibb.co/VptWp40G/images.png"
+        },
+        {
+          "name": "React Lottie",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Responsive Carousel",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Recharts",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Stripe",
+          "icon": "https://i.ibb.co/x905qPQ/0x0.png"
+        }
+      ],
+      "liveLink": "https://zap-shift-c1048.web.app",
+      "sourceCode": "https://github.com/Mohammadarman1357/zap-shift-client"
+    },
+    {
+      "id": 16,
+      "title": "Game Hub",
+      "image": "/projectimages/16gamehub.jpg",
+      "shortDescription": "A gaming platform with authentication, animations and an engaging interactive interface.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Toastify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "React Router",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"
+        },
+        {
+          "name": "React Icons",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "GSAP",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg"
+        },
+        {
+          "name": "Motion",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        }
+      ],
+      "liveLink": "https://gamehub-80a69.web.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/Game-Hub"
+    },
+    {
+      "id": 17,
+      "title": "Book Vibes",
+      "image": "/projectimages/17bookvibes.jpeg",
+      "shortDescription": "A modern book discovery application with authentication and interactive UI components.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "React Router",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"
+        },
+        {
+          "name": "Lucide React",
+          "icon": "https://lucide.dev/logo.light.svg"
+        },
+        {
+          "name": "React Tabs",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "SweetAlert",
+          "icon": "https://sweetalert2.github.io/images/SweetAlert2.png"
+        }
+      ],
+      "liveLink": "https://book-vibe-arman.netlify.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/boipoka-book-vibe"
+    },
+    {
+      "id": 18,
+      "title": "Smart Deals",
+      "image": "/projectimages/18smartdeals.jpg",
+      "shortDescription": "A full-stack deals platform with authentication, API integration and MongoDB database support.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "React Router",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"
+        },
+        {
+          "name": "Lucide React",
+          "icon": "https://lucide.dev/logo.light.svg"
+        },
+        {
+          "name": "React Tabs",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "SweetAlert",
+          "icon": "https://sweetalert2.github.io/images/SweetAlert2.png"
+        },
+        {
+          "name": "Axios",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+        },
+        {
+          "name": "React Icons",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Express.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "Vercel",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+        }
+      ],
+      "liveLink": "https://smart-deals-c757d.web.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/smart-deals-client"
+    },
+    {
+      "id": 19,
+      "title": "Rent Wheels",
+      "image": "/projectimages/19rentwheels.jpg",
+      "shortDescription": "A full-stack vehicle rental platform with authentication, database integration and interactive components.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "React Router",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"
+        },
+        {
+          "name": "Lucide React",
+          "icon": "https://lucide.dev/logo.light.svg"
+        },
+        {
+          "name": "React Tabs",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "SweetAlert",
+          "icon": "https://sweetalert2.github.io/images/SweetAlert2.png"
+        },
+        {
+          "name": "Axios",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+        },
+        {
+          "name": "React Icons",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Express.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "Swiper",
+          "icon": "https://swiperjs.com/images/swiper-logo.svg"
+        },
+        {
+          "name": "Vercel",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+        }
+      ],
+      "liveLink": "https://rent-wheels-d4b9a.web.app/",
+      "sourceCode": "https://github.com/Mohammadarman1357/rent-wheels-client"
+    },
+    {
+      "id": 20,
+      "title": "Dragon News",
+      "image": "/projectimages/15dragonnews.jpeg",
+      "shortDescription": "A modern news platform with authentication, categories and dynamic content.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Toastify",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "DaisyUI",
+          "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+        },
+        {
+          "name": "React Router",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg"
+        },
+        {
+          "name": "React Fast Marquee",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Icons",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        }
+      ],
+      "liveLink": "https://dragon-news-breaking-9a8a6.web.app/category/1",
+      "sourceCode": "https://github.com/Mohammadarman1357/Dreagon-News-with-Firebase"
+    },
+    {
+      "id": 21,
+      "title": "Ticket Bari",
+      "image": "/projectimages/21ticketbari.jpg",
+      "shortDescription": "A comprehensive full-stack ticket booking platform with maps, payments, charts and modern React tools.",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        },
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Firebase",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        },
+        {
+          "name": "Axios",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"
+        },
+        {
+          "name": "Express.js",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        },
+        {
+          "name": "TanStack Query",
+          "icon": "https://i.ibb.co.com/8g2PmHzr/favicon.jpg"
+        },
+        {
+          "name": "Leaflet",
+          "icon": "https://i.ibb.co/VptWp40G/images.png"
+        },
+        {
+          "name": "React Hook Form",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Leaflet",
+          "icon": "https://i.ibb.co/VptWp40G/images.png"
+        },
+        {
+          "name": "React Lottie",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "React Responsive Carousel",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Recharts",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "Stripe",
+          "icon": "https://i.ibb.co/x905qPQ/0x0.png"
+        }
+      ],
+      "liveLink": "https://ticket-bari-arman.web.app",
+      "sourceCode": "https://github.com/Mohammadarman1357/ticket-bari-client"
+    }
+  ]
+}

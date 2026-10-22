@@ -36,7 +36,6 @@ export default function FloatingNavBar({
   const { scrollTo } = useLenis() || {};
 
   const handleNavClick = (e, item) => {
-
     // External links like GitHub
     if (item.href.startsWith("http")) {
       return;
@@ -187,13 +186,16 @@ export default function FloatingNavBar({
 
                     active:scale-95
 
-                    ${isActive
-                      ? "text-white"
-                      : "text-[#6e6e73] hover:text-[#1d1d1f]"
+                    ${
+                      isActive
+                        ? "text-white"
+                        : "text-[#6e6e73] hover:text-[#1d1d1f]"
                     }
                   `}
                 >
-                  {/* ACTIVE SLIDING PILL */}
+                  {/* =================================================
+                      ACTIVE SLIDING PILL
+                  ================================================= */}
 
                   {isActive && (
                     <motion.div
@@ -203,26 +205,34 @@ export default function FloatingNavBar({
                         inset-0
                         -z-10
                         rounded-full
-                        bg-gradient-to-r from-[#05277d] via-[#5381d7] to-[#05277d] text-white
-                        
-                        shadow-[0_2px_10px_rgba(0,0,0,0.18)]
+
+                        bg-[linear-gradient(30deg,#0400ff,#4ce3f7)]
+                        bg-[length:100%_100%]
+
+                        will-change-transform
                       "
                       transition={{
-                        type: "spring",
-                        stiffness: 420,
-                        damping: 32,
+                        layout: {
+                          type: "spring",
+                          stiffness: 280,
+                          damping: 30,
+                          mass: 0.7,
+                        },
                       }}
                     />
                   )}
 
-                  {/* ICON */}
+                  {/* =================================================
+                      ICON
+                  ================================================= */}
 
                   <motion.div
                     animate={{
                       scale: isActive ? 1 : 0.95,
                     }}
                     transition={{
-                      duration: 0.2,
+                      duration: 0.25,
+                      ease: [0.22, 1, 0.36, 1],
                     }}
                     className="
                       flex
@@ -241,15 +251,18 @@ export default function FloatingNavBar({
                         transition-colors
                         duration-300
 
-                        ${isActive
-                          ? "text-white"
-                          : "text-black"
+                        ${
+                          isActive
+                            ? "text-white"
+                            : "text-black"
                         }
                       `}
                     />
                   </motion.div>
 
-                  {/* LABEL */}
+                  {/* =================================================
+                      LABEL
+                  ================================================= */}
 
                   <span
                     className={`
@@ -258,7 +271,7 @@ export default function FloatingNavBar({
 
                       text-[12px]
                       lg:text-[14px]
-                      
+
                       leading-none
                       tracking-tight
                       whitespace-nowrap
@@ -266,9 +279,10 @@ export default function FloatingNavBar({
                       transition-all
                       duration-300
 
-                      ${isActive
-                        ? "font-semibold"
-                        : "font-medium"
+                      ${
+                        isActive
+                          ? "font-semibold"
+                          : "font-medium"
                       }
                     `}
                   >
